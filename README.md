@@ -1,7 +1,7 @@
-# VJ CHANNEL AUTO FORWARD BOT
+# ANJALI CHANNEL AUTO FORWARD BOT
 A Simple telegram bot written in python to forward your files from one channel to other channel when a new post is available. What you need to do is just deploy this code. 
 
-[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/VJBots/VJ-AUTO-FORWARD-BOT/tree/main)
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/systemx5/Anjali-Auto-Forward-Bot)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://telegram.dog/VJ_Botz)
 
 ### Deploy To Render 
@@ -40,7 +40,7 @@ You can deploy this code any where you want but we provided heroku and railway d
 
 - Select one of the methods
 
-     - [![Deploy On Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/VJBots/VJ-Auto-Forward-Bot)
+     - [![Deploy On Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/systemx5/Anjali-Auto-Forward-Bot)
 
     -  [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/wEf927)
 

@@ -7,7 +7,7 @@
         "auto",
         "forward"
     ],
-    "success_url": "https://telegram.dog/MAHTOxOFFICIAL",
+    "success_url": "https://telegram.dog/AnjalixSupportxGroup",
     "repository": "https://github.com/systemx5/Anjali-Auto-Forward-Bot",
     "env": {
         "AS_COPY": {

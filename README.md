@@ -63,8 +63,8 @@ You can deploy this code any where you want but we provided heroku and railway d
 
 
 ## How to reach Me ?
-<a href="https://telegram.dog/VJ_Botz"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://telegram.dog/VJ_Bot_Disscussion"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://telegram.dog/AnjalixSupportxGroup"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://telegram.dog/MAHTOxOFFICIAL"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 ## COMMANDS
 ### AVAILABLE COMMANDS 
@@ -80,7 +80,7 @@ about - to know about me
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/VJBots/VJ-Auto-Forward-Bot/blob/main/LICENSE)
 
 ## Status
-[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://github.com/VJBots/VJ-Auto-Forward-Bot/tree/main)
+[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://github.com/systemx5/Anjali-Auto-Forward-Bot/tree/main)
 ![Forks](https://img.shields.io/github/forks/VJBots/VJ-Auto-Forward-Bot)
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=VJBots&theme=blue-green)
 [![Anonymous's github stats](https://github-readme-stats.vercel.app/api?username=VJBots&theme=blue-green)](https://github.com/VJBots/github-readme-stats)

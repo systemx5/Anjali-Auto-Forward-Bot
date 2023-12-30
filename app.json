@@ -8,7 +8,7 @@
         "forward"
     ],
     "success_url": "https://telegram.dog/VJ_Botz",
-    "repository": "https://github.com/VJBots/VJ-Auto-Forward-Bot",
+    "repository": "https://github.com/systemx5/Anjali-Auto-Forward-Bot",
     "env": {
         "AS_COPY": {
             "description": "set this to true to forward message as copy",
@@ -27,7 +27,7 @@
             "value": ""
         },
         "CHANNEL_ID": {
-            "description": "your channel id in format -10023352648:-100655379 (from channel id:to channel id) if you want to give more channels seperate them with white space",
+            "description": "your channel id in format -1001970031336 (from channel id:to channel id) if you want to give more channels seperate them with white space",
             "value": ""
         }
     },
